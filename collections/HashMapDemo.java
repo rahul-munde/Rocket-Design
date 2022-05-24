@@ -3,7 +3,7 @@ package collections;
 import java.util.*;
 
 public class HashMapDemo {
-
+	//HashMapDemo
 	public static void main(String[] args) {
 		HashMap<Integer,String> obj=new HashMap<Integer,String>(); 
 		obj.put(4, "Laptop"); //HasMap Not Maintain the order
